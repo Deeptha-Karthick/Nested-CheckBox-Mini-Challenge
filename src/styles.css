@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.checkbox-challenge-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.individual {
+  display: flex;
+  flex-direction: row;
+}
